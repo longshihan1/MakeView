@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="HomeTabLayout">
+        <attr name="tabText" format="string"/>
+        <attr name="tabImage" format="reference"/>
+        <attr name="tabPosition" format="integer"/>
+    </declare-styleable>
+
+</resources>
